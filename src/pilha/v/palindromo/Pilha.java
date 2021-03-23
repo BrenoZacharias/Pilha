@@ -1,4 +1,4 @@
-package pilha.vetor.palindromo;
+package pilha.v.palindromo;
 
 public class Pilha {
 		int inicio;
