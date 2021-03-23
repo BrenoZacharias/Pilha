@@ -54,4 +54,12 @@ public class Pilha {
 	        }
 	        System.out.println(elementos);
 	    }
+	    
+	    public String comparar () {
+	        String elementos = "";
+	        for (int i = inicio; i <= fim; i++) {
+	            elementos += p[i] + " ";
+	        }
+	        return elementos;
+	    }
 	}
