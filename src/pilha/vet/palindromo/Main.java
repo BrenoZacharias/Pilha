@@ -4,7 +4,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		Pilha pOri = new Pilha();
-		pOri.adicionar("t");
+		pOri.adicionar("1");
 		pOri.adicionar("e");
 		pOri.adicionar("n");
 		pOri.adicionar("e");
@@ -12,7 +12,7 @@ public class Main {
 		pOri.mostrar();
 		
 		Pilha pAux = new Pilha();
-		pAux.adicionar("t");
+		pAux.adicionar("1");
 		pAux.adicionar("e");
 		pAux.adicionar("n");
 		pAux.adicionar("e");
