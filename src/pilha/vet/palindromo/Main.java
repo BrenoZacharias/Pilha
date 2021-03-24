@@ -1,4 +1,4 @@
-package pilha.v.palindromo;
+package pilha.vet.palindromo;
 
 public class Main {
 
@@ -30,6 +30,7 @@ public class Main {
 		String StringPilha2 = pSaida.comparar();
 		
 		System.out.println("É palindromo?");
+		
 		if(StringPilha1.equals(StringPilha2)){
 			System.out.println("sim");
 		} else{
